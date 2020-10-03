@@ -1,0 +1,9 @@
+{
+  "editor.suggest.statusBar.visible": true,
+  "html.format.enable": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "files.insertFinalNewline": true,
+  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+}
